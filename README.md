@@ -61,10 +61,7 @@ I enjoy exploring new technologies, building projects and continuously improving
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdalyanasgar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdalyanasgar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sdalyanasgar&theme=tokyonight)
 
 ## 🔥 Contribution Streak
 
