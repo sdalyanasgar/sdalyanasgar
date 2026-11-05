@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm SD Alyan Asgar 👋
 
-<!--
-**sdalyanasgar/sdalyanasgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Technology Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about programming, software development and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new concepts, building projects and improving my problem-solving skills.
+
+### 💻 Technical Skills
+
+- **Languages:** Python, C
+- **Web Development:** HTML, CSS
+- **Interests:** Software Engineering, AI/ML, Cybersecurity
+
+### 🚀 Currently Exploring
+
+- JavaScript
+- C++ and Data Structures & Algorithms
+- Building practical software projects
+
+### 🎯 My Goals
+
+- Build meaningful real-world projects.
+- Strengthen my programming fundamentals.
+- Contribute to open-source projects.
+- Grow as a software engineer.
+
+### 🌐 Connect With Me
+
+- GitHub: https://github.com/sdalyanasgar
+
+---
+
+*Learning continuously. Building consistently. Growing every day.* 🚀
